@@ -9,5 +9,8 @@
     <?php
     echo " Hello, World";
     ?>
+    <?php
+    echo " Xin chào, mình là Trần Thị Khánh Ly đây!";
+    ?>
 </body>
 </html>
